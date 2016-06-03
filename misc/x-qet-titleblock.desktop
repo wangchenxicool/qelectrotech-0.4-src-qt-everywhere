@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=MimeType
+MimeType=application/x-qet-titleblock
+Icon=application-x-qet-titleblock
+DefaultApp=qelectrotech
+Patterns=*.titleblock;
+Comment=QElectroTech title block template
+Comment[de]=QElectroTech Schriftfeld
+Comment[fr]=Modèle de cartouche QElectroTech
+Comment[ar]=QElectroTech نموذج إطار تعريف
+Comment[pl]=Szablon tabliczki rysunkowej QElectroTech
+Comment[cs]=Vzor záhlaví výkresu pro QElectroTech
+Comment[es]=Modelo de cartucho QElectroTech
+Comment[ca]=Model de bloc de títol QElectroTech
+Comment[pt]=Modelo de moldura QElectroTech
+Comment[el]=Πρότυπο πινακίδας QElectroTech
+Comment[it]=Modello di cartiglio per QElectroTech
+Comment[nl]=QElectroTech titel bloksjabloon
+Comment[be]=QElectroTech titel bloksjabloon
+
